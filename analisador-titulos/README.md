@@ -66,7 +66,7 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 ---
 
 ✍️ **Autor:** [Fabiano Padilha Gutterres]  
-📧 Contato: [Email](mailto:neurixagentes@gmail.com) | [LinkedIn](https://linkedin.com/in/seu-usuario)  
+📧 Contato: ✉️[Email](mailto:neurixagentes@gmail.com) | [LinkedIn](https://linkedin.com/in/seu-usuario)  
 
 ---
 
