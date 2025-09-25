@@ -47,7 +47,7 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 ---
 
 ## 🌐 Acesso ao Projeto  
-👉 [Clique aqui para testar o app online](https://SEU-LINK-DO-APP-LOVABLE)  
+👉 [Clique aqui para testar o app online](https://analisador-titulos.lovable.app)  
 
 ---
 
