@@ -39,10 +39,10 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 
 ### Exemplo Título Antes/Depois  
 **Antes:**  
-`Meu vídeo de treino`  
+`Meu treino na academia`  
 
 **Depois (otimizado):**  
-`🔥 5 Exercícios Simples para Definir o Corpo em 30 Dias | Guia Completo`  
+`Meu de treino na academia - Guia Completo de Exercício Que Realmente Funciona!`  
 
 ---
 
