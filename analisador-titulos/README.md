@@ -1,9 +1,9 @@
 # 📌 Analisador de Títulos para YouTube/Blog – YouTube Optimizer AI  
 
 [![Lovable](https://img.shields.io/badge/Lovable-NoCode%20Apps-purple)](https://lovable.dev/)  
-[![Status](https://img.shields.io/badge/Status-Concluído-success)]()  
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)]()  
 [![Demo](https://img.shields.io/badge/Ver%20Demo-Online-blue)](https://SEU-LINK-DO-APP-LOVABLE)  
-
+<!--[![Status](https://img.shields.io/badge/Status-Concluído-success)]()-->
 ---
 
 ## 🚀 Sobre o Projeto  
