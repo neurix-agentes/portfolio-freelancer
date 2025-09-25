@@ -18,7 +18,7 @@ Aqui você encontra exemplos de **SaaS, micro SaaS e automações** desenvolvido
 - Interface responsiva feita no Lovable.  
 
 👉 [Acessar projeto no GitHub](./analisador-titulos/)  
-👉 [Testar app online](https://SEU-LINK-DO-APP-LOVABLE)  
+👉 [Testar app online](https://analisador-titulos.lovable.app)  
 
 ---
 
