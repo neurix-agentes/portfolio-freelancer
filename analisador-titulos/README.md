@@ -31,7 +31,11 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 ## 📸 Demonstração  
 
 ### Print da Interface  
-![Screenshot do projeto](./screenshot.png)  
+<img src="./screenshot_1.png" width="80%"> 
+
+<img src="./screenshot_2.png" width="80%"> 
+
+<img src="./screenshot_3.png" width="80%"> 
 
 ### Exemplo Título Antes/Depois  
 **Antes:**  
