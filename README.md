@@ -45,8 +45,8 @@ Aqui você encontra exemplos de **SaaS, micro SaaS e automações** desenvolvido
 
 ## 📩 Contato  
 
-- **Nome:** Seu Nome  
-- **Email:** seuemail@email.com  
+- **Nome:** Fabiano Padilha Gutterres  
+- **Email:** mailto:neurixagentes@gmail.com  
 - **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
 - **GitHub:** [github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)  
 
