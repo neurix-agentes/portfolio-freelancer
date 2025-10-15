@@ -47,7 +47,7 @@ Este projeto foi desenvolvido no **Lovable** com **Supabase** para autenticaçã
 
 <div align="center" width="70%>
 
-![Screenshot do ListCollab](./screenshot_1.png)
+<img src="./screenshot1.png" width="70%">
 ![Screenshot do ListCollab](./screenshot_2.png)  
 ![Screenshot do ListCollab](./screenshot_3.png)
 ![Screenshot do ListCollab](./screenshot_4.png) 
