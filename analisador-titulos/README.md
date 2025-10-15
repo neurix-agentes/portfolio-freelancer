@@ -1,8 +1,12 @@
 # 📌 Analisador de Títulos para YouTube/Blog – YouTube Optimizer AI  
 
+<div align="center">
+
 [![Lovable](https://img.shields.io/badge/Lovable-NoCode%20Apps-purple)](https://lovable.dev/)  
 [![Status](https://img.shields.io/badge/Status-Concluído-success)]()  
 [![Demo](https://img.shields.io/badge/Ver%20Demo-Online-blue)](https://SEU-LINK-DO-APP-LOVABLE)  
+
+</div>
 
 ---
 
@@ -31,8 +35,11 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 ## 📸 Demonstração  
 
 ### Print da Interface  
+
+<div align="center">
 ![Screenshot do projeto_1](./screenshot_1.png)  
 ![Screenshot do projeto_2](./screenshot_2.png) 
+</div>
 
 ### Exemplo Antes/Depois  
 **Antes:**  
