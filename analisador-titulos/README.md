@@ -59,7 +59,7 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 
 ## 📂 Como Usar  
 1. Acesse o link do app.  
-2. Insira o título que deseja analisar.  
+2. Insira o título e descrição que deseja analisar.  
 3. Receba sugestões de otimização e avaliação de engajamento.  
 
 ---
