@@ -31,8 +31,8 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 ## 📸 Demonstração  
 
 ### Print da Interface  
-![Screenshot do projeto_1](./screenshot1.png)  
-![Screenshot do projeto_2](./screenshot2.png) 
+![Screenshot do projeto_1](./screenshot_1.png)  
+![Screenshot do projeto_2](./screenshot_2.png) 
 
 ### Exemplo Antes/Depois  
 **Antes:**  
