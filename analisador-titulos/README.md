@@ -38,7 +38,7 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 
 <div align="center">  
   
-<img src="./screenshot_1.png" width="70%">  
+<img src="./screenshot_1.png" >
 <img src="./screenshot_2.png" width="70%">
 
 </div>
