@@ -53,7 +53,7 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 ---
 
 ## 🌐 Acesso ao Projeto  
-👉 [Clique aqui para testar o app online](https://SEU-LINK-DO-APP-LOVABLE)  
+👉 [Clique aqui para testar o app online](https://preview--analisador-youtube.lovable.app/)  
 
 ---
 
@@ -71,7 +71,7 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 
 ---
 
-✍️ **Autor:** [Seu Nome]  
-📧 Contato: [seuemail@email.com] | [LinkedIn](https://linkedin.com/in/seu-usuario)  
+✍️ **Autor:** [Fabiano Padilha Gutterres]  
+📧 Contato: [neurixagentes@gmail.com](mailto:neurixagentes@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fabiano-padilha-gutterres/)  
 
 ---
