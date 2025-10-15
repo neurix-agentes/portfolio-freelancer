@@ -36,9 +36,11 @@ Ele sugere melhorias de **palavras-chave** e indica se o título tem **alto ou b
 
 ### Print da Interface  
 
-<div align="center">
+<div align="center">  
+  
 ![Screenshot do projeto_1](./screenshot_1.png)  
 ![Screenshot do projeto_2](./screenshot_2.png) 
+
 </div>
 
 ### Exemplo Antes/Depois  
