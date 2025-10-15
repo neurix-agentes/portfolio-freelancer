@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-Em%20Produção-ffcc00)]()
-[![Lovable](https://img.shields.io/badge/LowCode-Lovable-8b5cf6?logo=heart&logoColor=white)]()
+[![Lovable](https://img.shields.io/badge/Lovable-NoCode%20Apps-purple)](https://lovable.dev/)  
+[![Status](https://img.shields.io/badge/Status-Em%20Produção-ffcc00)]()  
 [![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white)]()  
 
 </div>
@@ -48,7 +48,7 @@ Este projeto foi desenvolvido no **Lovable** com **Supabase** para autenticaçã
 <div align="center" >
 
 <img src="./screenshot_1.png" width="70%">
-<img src="./screenshot_2.png" width="70%">  
+<img src="./screenshot_2.png" width="70%">
 <img src="./screenshot_3.png" width="70%">
 <img src="./screenshot_4.png" width="70%">
 
@@ -61,5 +61,17 @@ Este projeto foi desenvolvido no **Lovable** com **Supabase** para autenticaçã
 👉 [Clique aqui para acessar o app](https://listcollab.lovable.app/) 
 
 ---
+## 📌 Próximos Passos / Melhorias Futuras  
+- 🏷️ Adicionar categorias e etiquetas de tarefas.  
+- ⏰ Definir prazos e lembretes automáticos.  
+- 📨 Sistema de convites por e-mail.  
+- 📅 Visualização em formato de calendário.  
+- 🧾 Exportar tarefas concluídas em PDF.
 
+---
+
+✍️ **Autor:** [Fabiano Padilha Gutterres]  
+📧 Contato: [neurixagentes@gmail.com](mailto:neurixagentes@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fabiano-padilha-gutterres/)
+
+---
 
