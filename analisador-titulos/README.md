@@ -4,7 +4,7 @@
 
 [![Lovable](https://img.shields.io/badge/Lovable-NoCode%20Apps-purple)](https://lovable.dev/)  
 [![Status](https://img.shields.io/badge/Status-Concluído-success)]()  
-[![Demo](https://img.shields.io/badge/Ver%20Demo-Online-blue)](https://SEU-LINK-DO-APP-LOVABLE)  
+[![Demo](https://img.shields.io/badge/Ver%20Demo-Online-blue)]([https://SEU-LINK-DO-APP-LOVABLE](https://preview--analisador-youtube.lovable.app/)  
 
 </div>
 
