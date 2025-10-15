@@ -45,12 +45,12 @@ Este projeto foi desenvolvido no **Lovable** com **Supabase** para autenticaçã
 
 ### Print da Interface  
 
-<div align="center" width="70%>
+<div align="center" >
 
-<img src="./screenshot1.png" width="70%">
-![Screenshot do ListCollab](./screenshot_2.png)  
-![Screenshot do ListCollab](./screenshot_3.png)
-![Screenshot do ListCollab](./screenshot_4.png) 
+<img src="./screenshot_1.png" width="70%">
+<img src="./screenshot_2.png" width="70%">  
+<img src="./screenshot_3.png" width="70%">
+<img src="./screenshot_4.png" width="70%">
 
 </div>
 
